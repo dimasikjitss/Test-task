@@ -23,11 +23,11 @@ Otherwise you can use:
 $ pip install -r requirements.txt
 
 Create new table in Postgresql and write data in you meaning:\n
-host = 'your_host'\n
-user = 'your_username'\n
-password = 'your_password'\n
-port = 'your_port'\n
-db_name = "your_DB_name"\n
+host = 'your_host'
+user = 'your_username'
+password = 'your_password'
+port = 'your_port'
+db_name = "your_DB_name"
 
 
 You can run server 
